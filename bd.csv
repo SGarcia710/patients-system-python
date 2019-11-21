@@ -1,0 +1,47 @@
+Codigo,Nombre,Identificacion,Causa,Hospital Origen,Hospital Actual
+
+1,Andres Olivera Duarte,75123485,Trauma,0,1
+
+2,Edwin Obando Perez,16799824,Diarrea,0,1
+
+3,Alexandra Alzate Trochez,1144523698,Fiebre,0,1
+
+4,Alejandro Orozco Carvajal,1130456982,Accidente De Transito,0,1
+
+5,Luis Alfonso Betancourt,16985421,Estrenimiento,0,1
+
+6,Luz Adriana Olaya Rios,66823452,Hemorragea,0,1
+
+7,Isabela Marmolejo Lopez,1114034985,Fiebre,0,1
+
+8,Maria Clara Rodriguez Mera,66945201,Cefalea,0,1
+
+9,Sebastian Gutierrez Mendez,1114025754,Tos,0,1
+
+10,Daniela Valencia Valencia,1130745986,Gastritis,0,1
+
+11,Diana Andrade Lopez,66945235,Dolor abdominal,0,2
+
+12,Camila Guerra Vergara,114475236,Cefalea,0,2
+
+13,Juan Andres Hernandez Velez,1134520142,Bronquitis,0,2
+
+14,Carlos Sanchez Obando,76895021,Calculos,0,2
+
+15,Inez Andrea Medina Dias,668450214,Trauma,0,2
+
+16,Lina Marcela Correa Rivera,66412563,Amigdalitis,0,3
+
+17,Marleny Sandoval Araujo,1144752135,Lumbago,0,3
+
+18,Roberto Alzate Rojas,1114563257,Dolor de Cabeza,0,3
+
+19,Cristian Rios Rios,1130987152,Crisis Asmatica,0,3
+
+20,Jesus Adrian Palacion Guerrero,16774012,Neumonia,0,3
+
+21,Natalia Mosquera Dias,66985214,Calculos,0,3
+
+22,Marta Osorio Beltran,77852149,Vomito,0,3
+
+23,Ricardo Gozales Molano,1114987463,Tos,0,3
